@@ -1,0 +1,4 @@
+policy,success_rate,avg_reward,avg_turn,avg_ask_count,avg_recommend_count
+dqn,0.922,0.7898999999999999,7.098,5.55,1.47
+heuristic,0.78,0.020059999999999988,7.444,3.566,3.658
+random,0.848,0.41846000000000005,7.854,5.206,2.496

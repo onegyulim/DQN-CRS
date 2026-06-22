@@ -1,0 +1,4 @@
+policy,failure_reason,count
+dqn,max_turn,39
+heuristic,max_turn,110
+random,max_turn,76

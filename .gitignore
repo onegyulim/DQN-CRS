@@ -1,0 +1,4 @@
+data/
+results/checkpoints/
+src/__pycache__/
+*.pyc
